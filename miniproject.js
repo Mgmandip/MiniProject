@@ -1,5 +1,5 @@
 // 1. Promises
-/*
+
 function fetchData() {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -110,7 +110,6 @@ class Student extends Person {
 const student1 = new Student("Ram", 10, "A+");
 console.log(student1.study());
 
-*/
 //12. Error Handling with Promises
 
 function fetchData() {
